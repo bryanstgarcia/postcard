@@ -1,0 +1,17 @@
+p {
+    color: red;
+    font-size: 20px;
+}
+/* Escriben el comentario */
+#soyP, #soyPTercero {
+    color: blueviolet;
+}
+
+.soyPGeneral {
+    color: greenyellow;
+    font-size: 25px;
+}
+.soyPMayor {
+    background-color: black;
+    font-size: 35px;
+}
